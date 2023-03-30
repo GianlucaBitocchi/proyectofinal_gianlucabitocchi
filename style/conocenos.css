@@ -1,0 +1,20 @@
+/* css total */
+body {
+   
+    font-family: "Roboto", sans-serif;
+    color: red;
+    margin: 0 !important;
+  
+}
+
+/* texto */
+.texto {
+
+    color: red;
+    border: 1px solid red;
+    text-align: center;
+    font-size: 25px;
+    margin: 30px;
+
+}
+

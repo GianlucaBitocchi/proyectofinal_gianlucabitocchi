@@ -1,0 +1,20 @@
+/* css total */
+body {
+   
+    font-family: $fuente-principal;
+    color: $color-letras;
+    margin: 0 !important;
+  
+}
+
+/* texto */
+.texto {
+
+    color: $color-letras;
+    border: 1px solid $color-letras;
+    text-align: center;
+    font-size: 25px;
+    margin: 30px;
+
+}
+

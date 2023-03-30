@@ -1,0 +1,28 @@
+/* css total */
+body {
+    
+    font-family: $fuente-principal;
+    color: $color-letras;
+    margin: 0 !important;
+
+}
+
+
+/* lista */
+#menu {
+
+    a {
+    font-size: 30px;
+    color: $color-letras;
+    padding-left: 30px;
+}
+
+}
+
+@media (max-width:768px){
+
+#menu {
+width: 100% !important;
+}
+
+}

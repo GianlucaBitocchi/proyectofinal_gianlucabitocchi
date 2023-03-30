@@ -1,0 +1,26 @@
+/* css total */
+body {
+    
+    font-family: "Roboto", sans-serif;
+    color: red;
+    margin: 0 !important;
+
+}
+
+
+/* lista */
+#menu a {
+
+    font-size: 30px;
+    color: red;
+    padding-left: 30px;
+
+}
+
+@media (max-width:768px){
+
+#menu {
+width: 100% !important;
+}
+
+}

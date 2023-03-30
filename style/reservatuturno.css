@@ -1,0 +1,112 @@
+/* css total */
+body {
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+    color: red;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+
+/* logo */
+.logo {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+/* formulario */
+.contenedor {
+
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1.5em;
+
+}
+
+.formulario{
+
+    margin: 0;
+
+}
+
+.formulario form {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+
+}
+
+.formulario form .hora {
+
+    grid-column: 1 / 3;
+    text-align: center;
+
+}
+
+.formulario form .boton {
+
+    grid-column: 1 / 3;
+
+}
+
+.formulario form p {
+
+    margin: 0;
+    padding: 20px;
+
+}
+
+.formulario {
+
+    background: rgb(17, 17, 17);
+    padding: 1em;
+
+}
+
+.formulario form input,
+.formulario form select,
+.formulario form button {
+
+    width: 100%;
+    padding: .7em;
+    border: none;
+    background: none;
+    outline: 0;
+    color: red;
+    border-bottom: 1px solid red;
+
+}
+
+.formulario form button {
+
+    background: red;
+    color: black;
+    border: 0;
+    padding: 1em;
+
+}
+
+
+/* footer */
+.footer {
+
+    background: rgb(17, 17, 17);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    margin-top: auto;
+
+}
+
+.footer a {
+
+    margin: 5px;
+
+}

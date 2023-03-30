@@ -1,0 +1,30 @@
+/* css total */
+body {
+    
+    font-family: "Roboto", sans-serif;
+    color: red;
+    margin: 0 !important;
+
+}
+
+
+/* titulo */
+#titulo {
+
+    color: red;
+    font-size: 40px;
+
+}
+
+/* imagenes */
+.carousel-inner {
+
+max-height: 500px;
+max-width: 500px;
+width: 700px;
+height: 400px ;
+
+
+}
+
+

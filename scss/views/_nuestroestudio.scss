@@ -1,0 +1,28 @@
+/* css total */
+body {
+    
+    font-family: $fuente-principal;
+    color: $color-letras;
+    margin: 0 !important;
+
+}
+
+
+/* titulo */
+#titulo {
+
+    color: $color-letras;
+    font-size: 40px;
+
+}
+
+/* imagenes */
+.carousel-inner {
+
+max-height: 500px;
+max-width: 500px;
+width: 700px;
+height: 400px ;
+
+
+}
