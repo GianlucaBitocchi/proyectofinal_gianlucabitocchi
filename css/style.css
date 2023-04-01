@@ -17,6 +17,17 @@ body {
 /* css total */
 body {
   font-family: "Roboto", sans-serif;
+  color: red;
+  margin: 0 !important; }
+
+/* artsitas */
+#artsitas a {
+  color: red;
+  text-decoration: none; }
+
+/* css total */
+body {
+  font-family: "Roboto", sans-serif;
   color: #FF0000;
   margin: 0 !important; }
 
@@ -84,11 +95,6 @@ body {
   .formulario p {
     margin: 0;
     padding: 20px; }
-  .formulario button {
-    background: red;
-    color: #1e1f20;
-    border: 0;
-    padding: 1em; }
 
 .formulario form input,
 .formulario form select,
@@ -100,6 +106,13 @@ body {
   outline: 0;
   color: #FF0000;
   border-bottom: 1px solid #FF0000; }
+
+.formulario form button {
+  background-image: radial-gradient(#ff7b00, #c91212);
+  color: black;
+  font-weight: bold;
+  border: 0;
+  padding: 1em; }
 
 /* footer */
 .footer {
