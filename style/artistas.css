@@ -1,18 +1,17 @@
 /* css total */
 body {
-    
+
     font-family: "Roboto", sans-serif;
     color: red;
-    margin: 0 !important
-   
+    margin: 0 !important 
+    
+
 }
 
 /* artsitas */
-#artsitas a{
+#artsitas a {
 
-color: red;
-text-decoration: none;
+    color: red;
+    text-decoration: none;
 
 }
-
-

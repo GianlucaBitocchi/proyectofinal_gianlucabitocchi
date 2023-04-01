@@ -3,7 +3,8 @@ body {
 
     font-family: $fuente-principal;
     color: red;
-    margin: 0 !important
+    margin: 0 !important;
+    min-height: $heigth-total;
 }
 
 /* artsitas */

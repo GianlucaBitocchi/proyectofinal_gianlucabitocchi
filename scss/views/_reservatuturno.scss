@@ -6,7 +6,7 @@ body {
     margin: 0;
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
+    min-height: $heigth-total;
 
 }
 
@@ -75,7 +75,7 @@ body {
 
 .formulario form button {
 
-    background-image: radial-gradient(rgb(255, 123, 0) , rgb(201, 18, 18));
+    background-image: radial-gradient($color-elipse, $color-elipse2 );
     color: $color-body;
     font-weight: bold;
     border: 0;

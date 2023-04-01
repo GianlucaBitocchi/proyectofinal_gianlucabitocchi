@@ -1,8 +1,9 @@
-/* css total */
+/* css total  inicio*/
 body {
   font-family: "Roboto", sans-serif;
   color: #FF0000;
-  margin: 0 !important; }
+  margin: 0 !important;
+  min-height: 100%; }
 
 /* lista */
 #menu a {
@@ -14,36 +15,30 @@ body {
   #menu {
     width: 100% !important; } }
 
-/* css total */
+/* css total  artistas*/
 body {
   font-family: "Roboto", sans-serif;
   color: red;
-  margin: 0 !important; }
+  margin: 0 !important;
+  min-height: 100%; }
 
 /* artsitas */
 #artsitas a {
   color: red;
   text-decoration: none; }
 
-/* css total */
+body {
+  font-family: "Roboto", sans-serif;
+  color: red;
+  margin: 0 !important;
+  min-height: 100%; }
+
+/* css total nuestro estudio*/
 body {
   font-family: "Roboto", sans-serif;
   color: #FF0000;
-  margin: 0 !important; }
-
-/* texto */
-.texto {
-  color: #FF0000;
-  border: 1px solid #FF0000;
-  text-align: center;
-  font-size: 25px;
-  margin: 30px; }
-
-/* css total */
-body {
-  font-family: "Roboto", sans-serif;
-  color: #FF0000;
-  margin: 0 !important; }
+  margin: 0 !important;
+  min-height: 100%; }
 
 /* titulo */
 #titulo {
@@ -57,7 +52,7 @@ body {
   width: 700px;
   height: 400px; }
 
-/* css total */
+/* css total reserva tu turno*/
 body {
   background-color: black;
   font-family: "Roboto", sans-serif;
@@ -65,7 +60,7 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  min-height: 100vh; }
+  min-height: 100%; }
 
 /* logo */
 .logo {
